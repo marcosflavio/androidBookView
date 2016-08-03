@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores do Material Theme-->
+    <color name="colorPrimary">#131313</color>   <!-- Azul-->
+    <color name="colorPrimaryDark">#000000</color>  <!-- Azul Escuro-->
+    <color name="colorAccent">#ea135b</color>   <!-- Vermelho clarin-->
+
+    <!-- Cores-->
+    <color name="vermelho">#ff0000</color>
+    <color name="azul">#0000ff</color>
+    <color name="verde">#00f000</color>
+    <color name="branco">#ffff</color>
+</resources>

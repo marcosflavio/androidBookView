@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Capitulo7_View</string>
+    <string name="hello_word">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_verde_e_branco">Texto verde e branco</string>
+    <string name="msg_azul_e_branco">Texto azul e branco</string>
+    <string name="msg_vermelho_e_branco"> Texto vermelho e branco</string>
+    <string name="texto1">Texto campo 1 azul</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="exemploToogle"> Exemplo de CheckBox e ToggleButton</string>
+    <string name="check1">Check 1</string>
+    <string name="check2">Check 2</string>
+    <string name="ligado">Ligado</string>
+    <string name="desligado">Desligado</string>
+    <string name="msg_Text_toggle"> O toggleButton mostra os textos Ligado ou Desligado...</string>
+    <string name="ok">Ok</string>
+    <string name="texto_combo">Selecione seu planetinha</string>
+</resources>

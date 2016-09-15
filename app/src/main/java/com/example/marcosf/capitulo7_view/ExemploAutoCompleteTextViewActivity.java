@@ -19,7 +19,7 @@ public class ExemploAutoCompleteTextViewActivity extends AppCompatActivity {
     "Rio grande do Norte", "Rio Grande do Sul", "Rondônia", "Roraima", "Santa Catarina",
     "São Paulo", "Sergipe", "Tocantins"};
 
-
+//ll
     @Override
     protected void onCreate(Bundle iCicle) {
         super.onCreate(iCicle);
